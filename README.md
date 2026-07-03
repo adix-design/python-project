@@ -1,2 +1,1 @@
-# python-project
-pyhton wheather project.
+python wheather project.
